@@ -6,5 +6,5 @@ a product inside REDIS. If found, it displays the result set. If NOT found, it s
 resultset into REDIS and also present them over the UI.
 
 <br>
-<img height = "700" src = "https://cloud.githubusercontent.com/assets/16638648/21870920/0103130a-d82d-11e6-806e-ec5121d19912.jpg" />
+<img height = "500" src = "https://cloud.githubusercontent.com/assets/16638648/21870920/0103130a-d82d-11e6-806e-ec5121d19912.jpg" />
 <br>
